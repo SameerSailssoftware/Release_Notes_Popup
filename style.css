@@ -1,0 +1,261 @@
+body{
+      background-color: #F5F5F5;
+      font-family: 'Roboto';
+      color: #5D636B;
+  }
+  
+  
+  .row{
+      margin: 0;
+      justify-content: center;
+      padding-top: 20px;
+  
+  }
+  
+  .choose-plan{
+    border-radius: 10px;
+    width: 1260px;
+    box-shadow: 0px 0px 10px rgb(0 0 0 / 38%);
+}
+.nav-link1 {
+    display: flex;
+    height: 50px;
+    font-size: 20px;
+    padding: 10px 1rem;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: #2FAFE4!important;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-link2 {
+    display: flex;
+    height: 75px;
+    font-size: 20px;
+    padding: 10px 1rem;
+    background-color: #5D636B !important;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icon{
+    color: white;
+    font-weight: 100;
+}
+
+.input-group {
+    width: 14%;
+    border: 0.1px solid #ffffff69;
+    border-radius: 7.5px;
+}
+
+.input-group-text {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    padding: .375rem .75rem;
+    margin-bottom: 0;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    text-align: center;
+    white-space: nowrap;
+    background-color: #e9ecef00;
+    border: none;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 200;
+    line-height: 1.5;
+    color: #ffffff;
+    background-color: #fff0;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    border: none;    
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+a:hover {
+    text-decoration: none;
+}
+
+.close {
+    float: right;
+    font-size: 1.5rem;
+    line-height: 1;
+    text-shadow: none;
+    opacity: 100%;
+}
+
+input.form-control::placeholder {
+    color: white;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.header_txt{
+    font-family: system-ui;
+    font-weight: lighter;
+    font-size: 28px;
+}
+  
+
+.has-search .form-control {
+    padding-left: 2.375rem;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+    width: 200px;
+    height: 30px;
+    display: flex;
+    border: 1px solid #d3d5d9;
+    border-radius: 4px;
+    background: #F1F3F6;
+    align-items: center;
+}
+.form-check {
+    position: relative;
+    /* display: flex;
+    align-items: center; */
+    padding-left: 1.25rem;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+input[type=checkbox], input[type=radio] {
+    width: 16px;
+    height: 16px;
+    
+}
+
+.scrollbar
+{
+    overflow-y: scroll; 
+    overflow-x: clip;
+    width: 300px;
+    height: 750px;
+    overflow-y: scroll;
+   scrollbar-width: thin;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+    height: 10px;
+
+  }
+  ::-webkit-scrollbar-thumb {
+    border-radius: 8px;
+    background: #c2c9d2;
+  }
+
+p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+
+}
+
+.blue{
+    color: #31AFE5;
+}
+.color1 {
+    background-color: #ECE1FF !important;
+}
+.color2 {
+    background-color: #FFEAD6 !important;
+}
+.color3 {
+    background-color: #E1F8F8 !important;
+}
+
+
+.highlight {
+    width: 100px;
+    height: 20px;
+    left: 0px;
+    top: 65.96px;
+    background: #ECE1FF;
+    border-radius: 100px;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.link{
+    color: #898B8D;
+    text-decoration: underline;
+}
+
+hr {
+    width: 918px;
+    height: 0px;
+    left: 0px;
+    top: 224.22px;
+
+    border: 1px solid #EBEEF3;
+}
+
+.menu{
+    background: #F7F7F8 !important;
+}
+
+
+
+.container{
+    max-width: 100% !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  /* ............................................Unused...................................................... */
+
+
+
+
+
